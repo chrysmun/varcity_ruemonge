@@ -32,6 +32,7 @@ This dataset allows the evaluation of semantic classification methods in the fol
 ## Downloads
 
 TODO: insert image on data overlay protocol
+
 TODO: insert image on ETHZ CVL RueMonge 2014 dataset
 
 
@@ -62,7 +63,9 @@ Various helper tools
 
 ## Results for ETHZ CVL RueMonge 2014 for the different tasks are:
 
-<a href="http://goo.gl/forms/AbbYzw7WZq">Submit your results here!</a>
+<a href="http://goo.gl/forms/AbbYzw7WZq">Submit your results here!</a>:
+http://goo.gl/forms/AbbYzw7WZq
+
 
 |Source         |  TASK1     |   TASK2	  |   TASK3    |   TASK4	 |   TASK5   |
 |               | [2D IOU %] | [3D IOU %]	| [3D IOU %] | [Speedup] | [Speedup] |
@@ -74,7 +77,7 @@ Various helper tools
 
 [1] Learning Where To Classify In Multi-View Semantic Segmentation, H. Riemenschneider, A. Bodis-Szomoru, J. Weissenberg, L. Van Gool, ECCV 2014
 
-
+Check the full updated spreadsheet here:
 <iframe src="https://docs.google.com/spreadsheets/d/1iy17jfjyJwWyW9zdkLWZRAnb4tPiuYdUgbowSDSoEsk/pubhtml?gid=194606980&single=true&widget=true&headers=false" width="1000" height="500"></iframe>
 
 
